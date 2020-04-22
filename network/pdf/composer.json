@@ -1,0 +1,14 @@
+{
+    "name": "subskill/kpk-pdf",
+    "description": "Simple Pdf generator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samy Yahia",
+            "email": "s.yahia@subskill.com"
+        }
+    ],
+    "require": {
+        "spipu/html2pdf": "^5.2"
+    }
+}
